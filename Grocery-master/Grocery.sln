@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documents", "Documents", "{D5BD2A00-314F-4B27-AB55-F7CD0ECCC8D6}"
+	ProjectSection(SolutionItems) = preProject
+		readme.txt = readme.txt
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grocery.WebApp", "Grocery.WebApp\Grocery.WebApp.csproj", "{3F28DDC0-933E-4DE7-B263-BE3AF3888CB1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F28DDC0-933E-4DE7-B263-BE3AF3888CB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F28DDC0-933E-4DE7-B263-BE3AF3888CB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F28DDC0-933E-4DE7-B263-BE3AF3888CB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F28DDC0-933E-4DE7-B263-BE3AF3888CB1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {502A53BE-4DBA-4C63-A771-A8BB677D32D3}
+	EndGlobalSection
+EndGlobal
